@@ -7,6 +7,9 @@
     "start": "node index.js"
   },
   "dependencies": {},
+  "engines": {
+    "node": "16.x"
+  },
   "author": "HarukaYamamoto0 - github",
   "license": "MIT"
 }
