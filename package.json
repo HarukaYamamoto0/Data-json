@@ -1,12 +1,11 @@
 {
-  "name": "Data-json",
+  "name": "appo-database",
   "version": "1.0.0",
   "description": "a simple database",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {},
   "engines": {
     "node": "16.x"
   },
