@@ -9,7 +9,7 @@ I don't intend to gain anything from it, as I said, it's just a challenge.
 
 Example of use:
 ```js
-const Database = require("appo-database");
+const { Database } = require("appo-database");
 const database = new Database();
 
 database.set("userId:0190109101", "userObject"); // undefined
