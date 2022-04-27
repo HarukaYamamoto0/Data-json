@@ -1,9 +1,9 @@
-# Appo-database
-a simple database just to be clear, this project is just a challenge i made for myself, first i will build the database using key and value architecture, then i will increase the difficulty.
+# Appo-database.
+Just a simple key and value style database.
 
-I'm going to use the simpl.db package, created by [5antos](https://github.com/5antos), as a base, so as I said I'm going to increase the difficulty, my goal, and get as close as possible to the mongoose package.
+appo-datatabse is a challenge I made for myself, but I'm temporarily giving up as I still don't have enough knowledge to continue with it as I wanted to expand it to now similar to Mongoose.
 
-I don't intend to gain anything from it, as I said, it's just a challenge.
+I was inspired after seeing the package created by [5antos](https://github.com/5antos) the [Simpl.db](https://www.npmjs.com/package/simpl.db), a lightweight local database.
 
 ---
 
