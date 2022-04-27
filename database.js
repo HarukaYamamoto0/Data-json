@@ -22,8 +22,8 @@ class Database {
     this.#storage = {};
   }
 
-  show() {
-    console.log(this.#storage);
+  toJSON() {
+    return JSON.stringify(this.#storage);
   }
 
   /*------------------------------------------------------------------------*/
